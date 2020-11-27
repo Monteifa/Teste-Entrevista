@@ -2,11 +2,29 @@
 
 Esse projeto foi desenvolvido com React.
 
+
 ## Prerequisites
 
 NodeJs
 
-### `yarn start`
+## Installing
+
+```
+
+npm install
+
+```
+
+## Running
+
+```
+
+yarn start or npm start
+
+```
+
+
+
 
 
 
