@@ -1,0 +1,21 @@
+.header {
+  background: url('../../assets/background.svg') center;
+  height: 200px;
+  background-color: black;
+}
+.logo-container {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 64px;
+  height: 64px;
+  padding-top: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .logo-container {
+    max-width: 90%;
+  }
+}

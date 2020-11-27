@@ -1,0 +1,8 @@
+.footer {
+  background: transparent linear-gradient(116deg, #5a5789 0%, #2d2c45 100%);
+  position: relative;
+  bottom: 0;
+  text-align: center;
+  color: #fff;
+  height: 40px;
+}
